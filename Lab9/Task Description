@@ -1,0 +1,9 @@
+I. Realize protection for:
+1) localhost/master/Less-1/ 
+2) localhost/master/Less-3/ 
+3) localhost/master/Less-10/ 
+Show two screenshot for each Less: 1) a source code (from php file), 2) window with sql-injection (for confirmation sql-injection is not working).
+
+
+II. Implement method 6 user authentication (using functions password password_hash and password_verify) on the laboratory localhost/master/Less-9/. 
+Show two screenshot: 1) table users datas from database, 2) a source code (from php file).
