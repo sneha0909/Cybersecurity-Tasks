@@ -1,0 +1,18 @@
+As part of the laboratory work, the following tasks are performed:
+1. Using the service https://2ip.ru/, determine your external network address (take a
+screenshot).
+2. Using the service https://2ip.ru/port-scaner/, scan for open ports on your machine. Take
+a screenshot and analyze the test results.
+3. Using the service https://hidemy.name/en/port-scanner/, perform a rescanning of ports
+by entering your network address in the appropriate field. Take a screenshot and analyze the
+test results. Which ports / protocols / services, in your opinion, are the most dangerous /
+vulnerable, and which are the most secure?
+4. Review the current document and complete the tasks:
+1. Select and research one of the list of free intrusion detection systems. Give the features
+of the IDS under investigation, and explore the interface.
+2. Review the documentation of any of the commercial intrusion detection systems and
+compare the functionality with the previously investigated IDS.
+3. Investigate any of the vulnerability scanners listed in the document. Check out the
+software documentation on the official website and describe the functionality and features of
+the scanner.
+5. Prepare a progress report.
