@@ -1,0 +1,16 @@
+As part of the laboratory work, you must complete the following tasks:
+1. To study the concept and purpose of network protocols.
+2. Become familiar with the OSI / ISO Interoperability Reference Model.
+3. Monitor network activity and analyze the operation of network applications using netstat
+and tcpview. Analyze current network connections on a network machine and get
+protocol statistics (netstat only).
+4. Compare the results from netstat and tcpview. What applications or ports did you find
+suspicious and why?
+5. Answer questions:
+a. What is the fundamental difference between the TCP and UDP protocols.
+b. What is a socket?
+c. Why was the network ports mechanism introduced?
+d. Is there a difference in the protocols implemented, for example, for Windows and
+Linux?
+
+6. To issue a report on the work done.
