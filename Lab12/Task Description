@@ -1,0 +1,32 @@
+The following tasks need be completed:
+
+1. Clean your computer from adware and spyware.
+2. Install Nmap.
+3. Learn the command syntax and functionality of Nmap.
+4. Determine your IP address.
+5. Perform a clean scan of your subnet without attracting attention. Use the appropriate
+setting when scanning and 24 bit width.
+6. Perform an ARP scan of your subnet using 24 bits. Analyze the scan and draw
+conclusions.
+7. Select any host from the results in step 4 or 5 and perform a UDP scan on the default
+port. Compare the current results with those obtained in step 4 or 5.
+8. Scan your network using half-open connections. Compare with the result from step 4.
+9. Select the target host from the commands offered for research (Appendix B).
+10. Scan the target host's open ports:
+1. What ports were discovered and what services / services are they responsible for?
+2. Use the literature or the Internet and determine which services / services from the
+detected vulnerabilities?
+3. Track the path to the target host.
+4. Determine the operating system of the target host. If resisted, enter the appropriate
+value with 50 attempts. Comment on the result.
+5. Ping to the target computer, adjusting the request response timeout.
+6. Ping the target computer and set the maximum number of request retransmissions.
+7. Implement a time control option when scanning the target host. Adjust the delay
+between requests. Comment on the result.
+8. Perform a disguise scan of the target host using bogus hosts. Select any of the
+provided hosts in Appendix B.
+9. Scan the target host with spoofing the original address.
+10. Output the scan results at any of the steps (3-9) in XML format.
+11. With the help of the NSE engine, implement a script that combines 2-3 tasks that you
+have already done earlier and display the incoming and outgoing connections.
+12. Prepare a progress report.
