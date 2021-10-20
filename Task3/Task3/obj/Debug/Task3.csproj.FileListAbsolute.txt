@@ -1,0 +1,10 @@
+C:\Users\msi-pc\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\msi-pc\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\msi-pc\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\msi-pc\source\repos\Task3\Task3\obj\Debug\Task3.pdb
